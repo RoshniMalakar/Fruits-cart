@@ -10,6 +10,7 @@
 }
 .navbar .btn-group {
   margin: 10px 0px;
+  gap: 10px;
 }
 .navbar .btn-group button {
   margin: 0px 10px;
@@ -19,7 +20,6 @@
   border-radius: 5px;
   padding: 10px 0px;
   width: 90px;
-  gap: 10px;
 }
 .cart {
   color: black;
