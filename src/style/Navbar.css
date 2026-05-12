@@ -1,0 +1,48 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0px 10px;
+}
+/* .navbar ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+}
+.navbar ul li {
+  padding: 10px;
+  color: black;
+}
+.navbar ul li Link {
+  color: black;
+} */
+.navbar .btn-group {
+  margin: 10px 0px;
+}
+.navbar .btn-group button {
+  margin: 0px 10px;
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 0px;
+  width: 90px;
+}
+.cart {
+  color: black;
+}
+.cart sup {
+  color: red;
+}
+.cart .link{
+  color: black;
+  text-decoration: none;
+}
+.btn-group .link{
+  color: white;
+  text-decoration: none;
+}
