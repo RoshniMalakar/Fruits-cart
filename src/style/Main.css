@@ -42,7 +42,7 @@
   white-space: nowrap;
 }
 .card .card-body p {
-  width: 230px;
+  width: 80%;
 }
 .price {
   font-weight: bold;
